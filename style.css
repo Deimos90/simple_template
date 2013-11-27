@@ -80,21 +80,22 @@ a {
 			background-repeat:no-repeat;
 			padding: 14px 26px 0 0;		
 		}
-#main {
+#main {}
+
 	#content {
-	background: url("images/wood.jpg");
-	margin: 0 auto;
-	min-width: 960px;
-	max-width: 1366px;
-	box-shadow:inset 0 35px 65px #000000;
-	-moz-box-shadow:inset 0 35px 65px #000000;		
+		background: url("images/wood.jpg");
+		margin: 0 auto;
+		min-width: 960px;
+		max-width: 1366px;
+		box-shadow:inset 0 35px 65px #000000;
+		-moz-box-shadow:inset 0 35px 65px #000000;		
 	}
 		#content .middle {
 			height: 650px;
 			background: #ffffff;
 		}
 		#content .slide_box {
-			background: url("images/118015223.jpg");
+			background: url("images/wood.jpg");
 			margin: 0 auto;
 			min-width: 960px;
 			max-width: 1366px;
@@ -185,7 +186,7 @@ a {
 			height:20px;			  
 			display: inline-block;
 		}
-}
+
 #footer {
 	margin: 0 auto;
 	min-width: 960px;
